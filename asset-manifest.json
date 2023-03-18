@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ShahrozAs/Text-Utils-React-App/static/css/main.abd64e84.css",
+    "main.js": "/ShahrozAs/Text-Utils-React-App/static/js/main.3ed6b505.js",
+    "static/js/787.28cb0dcd.chunk.js": "/ShahrozAs/Text-Utils-React-App/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/ShahrozAs/Text-Utils-React-App/index.html",
+    "main.abd64e84.css.map": "/ShahrozAs/Text-Utils-React-App/static/css/main.abd64e84.css.map",
+    "main.3ed6b505.js.map": "/ShahrozAs/Text-Utils-React-App/static/js/main.3ed6b505.js.map",
+    "787.28cb0dcd.chunk.js.map": "/ShahrozAs/Text-Utils-React-App/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.3ed6b505.js"
+  ]
+}
